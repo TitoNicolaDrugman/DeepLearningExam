@@ -1,7 +1,8 @@
 # Animal Image Classifier
 
 Exam Date: July 2023
-For additional information: [link](https://github.com/TitoNicolaDrugman/DeepLearningExam/blob/master/DRUGMAN_502252.ipynb).
+
+For additional information see the code descprtion: [link](https://github.com/TitoNicolaDrugman/DeepLearningExam/blob/master/DRUGMAN_502252.ipynb).
 
 
 ## Table of Contents
