@@ -2,7 +2,7 @@
 
 Exam Date: July 2023
 
-For additional information see the code descprtion: [link](https://github.com/TitoNicolaDrugman/DeepLearningExam/blob/master/DRUGMAN_502252.ipynb).
+For additional and clearer information I really invite you to see the comments inside the .ipynb file: [link](https://github.com/TitoNicolaDrugman/DeepLearningExam/blob/master/DRUGMAN_502252.ipynb).
 
 
 ## Table of Contents
